@@ -1,1 +1,14 @@
+body{
 font-family: "Oswald", sans-serif;
+ background: black;
+ color: orangered;
+ margin: 0px;
+ margin-bottom: 100px;
+}
+.chamada{
+background: aqua;
+display: flex;
+justify-content: center;
+margin-top: 80px;
+margin-bottom: 80px;
+}
