@@ -18,3 +18,9 @@ header{
  border-bottom: 3px solid cyan;
  padding: 20px;
 }
+h1{
+    font-size: 35px;
+}
+.chamada-text{
+    margin-right: 5%;
+}
